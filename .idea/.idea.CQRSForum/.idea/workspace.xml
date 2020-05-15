@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17d2e5aa-c559-4878-8a7c-9cdff2463f3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/E/CallSiteValidator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/31/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/Endpoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3D4/EqualityComparer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/JsonPlaceholderClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Entities/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48BFF467-680D-4F19-9450-0658EEE671FE/7/ConcurrentDictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/1D/ServiceProviderEngine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/1E/ServiceProviderEngineScope.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F6B70EA5-3761-414B-8A56-EDA3B460C2E0/2A/RequestServicesFeature.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A3637BAD-11F4-439B-8B7C-3529F8239F0A/5C/HttpProtocol.Generated.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D7EEFEE9-4FD2-4B1D-ADD0-C70E4C47840E/5/FeatureReferences.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/37/String.Comparison.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/4E/SR.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/135/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/259/RuntimeHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3C4/HashHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/IMapFrom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0D146204-B6C5-4BB8-8269-1AB66FA83874/4/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/20/StackGuard.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/Entities/Post.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3D5/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/B/CallSiteChain.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/PostsApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/C/CallSiteFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/8/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsVm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3A2/EventSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/IPostsApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/5/DependencyInjectionEventSource.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/Domain/Entitites/Post.cs" />
+        <option value="$PROJECT_DIR$/Application/Class1.cs" />
+        <option value="$PROJECT_DIR$/Application/App.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/Class1.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Class1.cs" />
+        <option value="$PROJECT_DIR$/Domain/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/Domain/Entities/Post.cs" />
+        <option value="$PROJECT_DIR$/Domain/Entities/Comment.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderClient.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/HttpClient/Endpoints.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/HttpClient/JsonPlaceholderClient.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/HttpClient/BaseHttpClient.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderClient/Endpoints.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsResponse.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderClient/JsonPlaceholderClient.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsCommandDto.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsCommandVm.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsCommand.cs" />
+        <option value="$PROJECT_DIR$/Application/Common/Mappings/IMapFrom.cs" />
+        <option value="$PROJECT_DIR$/Application/Common/Mappings/MappingProfile.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsVm.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPostsQuery.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostResponse.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsResponse.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsVm.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostVm.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/IPostsApi.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostRequest.cs" />
+        <option value="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/Endpoints.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/JsonPlaceholderClient.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/DependencyInjection.cs" />
+        <option value="$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/PostsApi.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Program.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/Application/Dependency.cs" />
+        <option value="$PROJECT_DIR$/Application/DependencyInjection.cs" />
+        <option value="$PROJECT_DIR$/Presentation/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bw5FspuAxvoX7CnhEKtDddtSa0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Presentation">
+    <configuration name="Presentation" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Presentation/Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="Presentation" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Presentation: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Presentation/Presentation.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17d2e5aa-c559-4878-8a7c-9cdff2463f3a" name="Default Changelist" comment="" />
+      <created>1589530216291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589530216291</updated>
+      <workItem from="1589530222036" duration="10878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589543040388">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543040388" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1589543040388">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543040388" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1589543040387">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543040387" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1589543040388">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543040388" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.3.center" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.3.left" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.3.right" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.4.center" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.4.left" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state width="1877" height="348" key="GridCell.Tab.4.right" timestamp="1589543038861">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589543038861" />
+    <state x="552" y="-828" key="Rider.ProjectTemplateDialog.Size" timestamp="1589530815690">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="552" y="-828" key="Rider.ProjectTemplateDialog.Size/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589530815690" />
+    <state x="717" y="-870" key="RiderGenerateDialog" timestamp="1589538563550">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="717" y="-870" key="RiderGenerateDialog/0.0.1187.720/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1589538563550" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Presentation/Controllers/PostsController.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" initialLine="12">
+            <startOffsets>
+              <option value="388" />
+            </startOffsets>
+            <endOffsets>
+              <option value="389" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs</url>
+          <line>22</line>
+          <properties documentPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" initialLine="22">
+            <startOffsets>
+              <option value="799" />
+            </startOffsets>
+            <endOffsets>
+              <option value="800" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Presentation/Controllers/PostsController.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" initialLine="13">
+            <startOffsets>
+              <option value="402" />
+            </startOffsets>
+            <endOffsets>
+              <option value="461" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" initialLine="16">
+            <startOffsets>
+              <option value="558" />
+            </startOffsets>
+            <endOffsets>
+              <option value="559" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" initialLine="17">
+            <startOffsets>
+              <option value="576" />
+            </startOffsets>
+            <endOffsets>
+              <option value="597" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" initialLine="18">
+            <startOffsets>
+              <option value="614" />
+            </startOffsets>
+            <endOffsets>
+              <option value="631" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/4E/SR.cs</url>
+          <line>49</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/4E/SR.cs" initialLine="49">
+            <startOffsets>
+              <option value="1791" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1792" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Presentation/Controllers/BaseController.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" initialLine="14">
+            <startOffsets>
+              <option value="381" />
+            </startOffsets>
+            <endOffsets>
+              <option value="446" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

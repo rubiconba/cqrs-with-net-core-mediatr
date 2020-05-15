@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Presentation\\Presentation.csproj",
+    "projectName": "Presentation",
+    "projectPath": "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Presentation\\Presentation.csproj",
+    "outputPath": "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Presentation\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Application\\Application.csproj": {
+            "projectPath": "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Application\\Application.csproj"
+          },
+          "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Infrastructure\\Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\Faris\\RiderProjects\\CQRSForum\\Infrastructure\\Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.4.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

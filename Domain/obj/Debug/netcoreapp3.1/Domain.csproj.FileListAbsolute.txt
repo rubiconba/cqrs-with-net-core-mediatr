@@ -1,0 +1,8 @@
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Faris\RiderProjects\CQRSForum\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
