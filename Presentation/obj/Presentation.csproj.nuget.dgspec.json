@@ -60,10 +60,6 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjectionFixed": {
-              "target": "Package",
-              "version": "[5.1.2, )"
             }
           },
           "imports": [

@@ -3,7 +3,7 @@ using AutoMapper;
 
 namespace Application.Posts.Queries.GetAllPosts
 {
-    public class GetAllPostsVm : IMapFrom<GetAllPostsResponse>
+    public class GetAllPostsDto : IMapFrom<GetAllPostsResponse>
     {
         public int UserId { get; set; }
         public int Id { get; set; }
@@ -12,7 +12,7 @@ namespace Application.Posts.Queries.GetAllPosts
 
         public void Mapping(Profile profile)
         {
-            profile.CreateMap<GetAllPostsResponse, GetAllPostsVm>();
+            profile.CreateMap<GetAllPostsResponse, GetAllPostsDto>();
         }
     }
 }

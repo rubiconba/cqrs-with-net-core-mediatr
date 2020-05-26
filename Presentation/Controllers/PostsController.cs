@@ -9,7 +9,7 @@ namespace Presentation.Controllers
     public class PostsController : BaseController
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<GetAllPostsVm>>> GetAllPosts()
+        public async Task<ActionResult<IEnumerable<GetAllPostsDto>>> GetAllPosts()
         {
             var response = await Mediator.Send(new GetAllPostsQuery());
 
@@ -17,7 +17,7 @@ namespace Presentation.Controllers
         }
         
         [HttpPost]
-        public async Task<ActionResult<CreatePostVm>> CreatePost(CreatePostCommand command)
+        public async Task<ActionResult<CreatePostDto>> CreatePost(CreatePostCommand command)
         {
             var response = await Mediator.Send(command);
 

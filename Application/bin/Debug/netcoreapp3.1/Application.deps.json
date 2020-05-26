@@ -12,8 +12,7 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "7.0.0",
           "Domain": "1.0.0",
           "MediatR": "8.0.1",
-          "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
-          "MediatR.Extensions.Microsoft.DependencyInjectionFixed": "5.1.2"
+          "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0"
         },
         "runtime": {
           "Application.dll": {}
@@ -61,12 +60,6 @@
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.0.0"
           }
-        }
-      },
-      "MediatR.Extensions.Microsoft.DependencyInjectionFixed/5.1.2": {
-        "dependencies": {
-          "MediatR": "8.0.1",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
         }
       },
       "Microsoft.CSharp/4.5.0": {},
@@ -181,13 +174,6 @@
       "sha512": "sha512-qGa+dbfrpk6y01swgc0uM+jG5tkb5xVeY1P4iByd3NQCDO7nmrMBnBRoMGhKlSigQ6iWXDiwOpzC01W4xrJxLg==",
       "path": "mediatr.extensions.microsoft.dependencyinjection/8.0.0",
       "hashPath": "mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512"
-    },
-    "MediatR.Extensions.Microsoft.DependencyInjectionFixed/5.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-93OmjCwew097+bxLSA9xJavQ0AYhHDmZDeh2Q09rxCuTeO9SKc/gtQledr0s42vHfl5yFgTRaffyMYG+989c2w==",
-      "path": "mediatr.extensions.microsoft.dependencyinjectionfixed/5.1.2",
-      "hashPath": "mediatr.extensions.microsoft.dependencyinjectionfixed.5.1.2.nupkg.sha512"
     },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",

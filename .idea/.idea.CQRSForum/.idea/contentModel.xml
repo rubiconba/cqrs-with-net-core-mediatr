@@ -25,17 +25,17 @@
           <e p="Commands" t="Include">
             <e p="CreatePost" t="Include">
               <e p="CreatePostCommand.cs" t="Include" />
+              <e p="CreatePostDto.cs" t="Include" />
               <e p="CreatePostRequest.cs" t="Include" />
               <e p="CreatePostResponse.cs" t="Include" />
-              <e p="CreatePostVm.cs" t="Include" />
             </e>
           </e>
           <e p="IPostsApi.cs" t="Include" />
           <e p="Queries" t="Include">
             <e p="GetAllPosts" t="Include">
+              <e p="GetAllPostsDto.cs" t="Include" />
               <e p="GetAllPostsQuery.cs" t="Include" />
               <e p="GetAllPostsResponse.cs" t="Include" />
-              <e p="GetAllPostsVm.cs" t="Include" />
             </e>
           </e>
         </e>

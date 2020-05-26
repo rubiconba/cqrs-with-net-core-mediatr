@@ -6,9 +6,9 @@ using MediatR;
 
 namespace Application.Posts.Queries.GetAllPosts
 {
-    public class GetAllPostsQuery : IRequest<IEnumerable<GetAllPostsVm>>
+    public class GetAllPostsQuery : IRequest<IEnumerable<GetAllPostsDto>>
     {
-        public class GetAllPostsQueryHandler : IRequestHandler<GetAllPostsQuery, IEnumerable<GetAllPostsVm>>
+        public class GetAllPostsQueryHandler : IRequestHandler<GetAllPostsQuery, IEnumerable<GetAllPostsDto>>
         {
             private readonly IPostsApi _postsApi;
             private readonly IMapper _mapper;
@@ -19,10 +19,10 @@ namespace Application.Posts.Queries.GetAllPosts
                 _mapper = mapper;
             }
             
-            public async Task<IEnumerable<GetAllPostsVm>> Handle(GetAllPostsQuery request, CancellationToken cancellationToken)
+            public async Task<IEnumerable<GetAllPostsDto>> Handle(GetAllPostsQuery request, CancellationToken cancellationToken)
             {
                 var posts = await _postsApi.GetAllPosts();
-                return _mapper.Map<IEnumerable<GetAllPostsVm>>(posts);
+                return _mapper.Map<IEnumerable<GetAllPostsDto>>(posts);
             }
         }
     }

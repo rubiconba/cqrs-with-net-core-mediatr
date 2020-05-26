@@ -5,12 +5,12 @@ using MediatR;
 
 namespace Application.Posts.Commands.CreatePost
 {
-    public class CreatePostCommand : IRequest<CreatePostVm>
+    public class CreatePostCommand : IRequest<CreatePostDto>
     {
         public string Title { get; set; }
         public string Body { get; set; }
         
-        public class CreatePostCommandHandler : IRequestHandler<CreatePostCommand, CreatePostVm>
+        public class CreatePostCommandHandler : IRequestHandler<CreatePostCommand, CreatePostDto>
         {
             private readonly IPostsApi _postsApi;
             private readonly IMapper _mapper;
@@ -21,10 +21,10 @@ namespace Application.Posts.Commands.CreatePost
                 _mapper = mapper;
             }
             
-            public async Task<CreatePostVm> Handle(CreatePostCommand request, CancellationToken cancellationToken)
+            public async Task<CreatePostDto> Handle(CreatePostCommand request, CancellationToken cancellationToken)
             {
                 var response = await _postsApi.CreatePost(_mapper.Map<CreatePostRequest>(request));
-                return _mapper.Map<CreatePostVm>(response);
+                return _mapper.Map<CreatePostDto>(response);
             }
         }
     }

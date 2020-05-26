@@ -10,19 +10,19 @@ namespace Infrastructure
     { 
         private readonly HttpClient _httpClient;
 
-        public BaseHttpClient(HttpClient httpClient)
+        protected BaseHttpClient(HttpClient httpClient)
         {
             _httpClient = httpClient;
         }
-        
-        public async Task<T> Get<T>(string uri)
+
+        protected async Task<T> Get<T>(string uri)
         {
             var request = CreateRequest(HttpMethod.Get, uri);
 
             return await ExecuteRequest<T>(request);
         }
-        
-        public async Task<T> Post<T>(string uri, object content)
+
+        protected async Task<T> Post<T>(string uri, object content)
         {
             var request = CreateRequest(HttpMethod.Post, uri, content);
 
@@ -58,7 +58,7 @@ namespace Infrastructure
                                        ex is HttpRequestException ||
                                        ex is JsonException)
             {
-                throw new Exception("HttpClient exception");
+                throw new Exception("HttpClient exception", ex);
             }
         }
     }
