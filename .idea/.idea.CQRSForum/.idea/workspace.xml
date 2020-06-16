@@ -4,52 +4,7 @@
     <list default="true" id="17d2e5aa-c559-4878-8a7c-9cdff2463f3a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CQRSForum/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CQRSForum/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CQRSForum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CQRSForum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Application.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostVm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsVm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsDto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Application/bin/Debug/netcoreapp3.1/Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/Debug/netcoreapp3.1/Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Application/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/bin/Debug/netcoreapp3.1/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netcoreapp3.1/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/bin/Debug/netcoreapp3.1/Presentation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Debug/netcoreapp3.1/Presentation.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Presentation.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Presentation.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/Presentation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Presentation/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Presentation/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CQRSForum.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CQRSForum.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,55 +15,55 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsResponse.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/E/CallSiteValidator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/31/RuntimeType.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Presentation/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/Endpoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3D4/EqualityComparer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/JsonPlaceholderClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Domain/Entities/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/BaseHttpClient.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Domain/Entities/User.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Presentation/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/48BFF467-680D-4F19-9450-0658EEE671FE/7/ConcurrentDictionary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/1D/ServiceProviderEngine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/1E/ServiceProviderEngineScope.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F6B70EA5-3761-414B-8A56-EDA3B460C2E0/2A/RequestServicesFeature.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/A3637BAD-11F4-439B-8B7C-3529F8239F0A/5C/HttpProtocol.Generated.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Infrastructure/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D7EEFEE9-4FD2-4B1D-ADD0-C70E4C47840E/5/FeatureReferences.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/37/String.Comparison.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3DC/List.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Presentation/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/4E/SR.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/135/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/PostsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/259/RuntimeHelpers.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F2ACE85F-6C10-49DB-8CAC-F03079CCDA72/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostDto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3C4/HashHelpers.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/IMapFrom.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostRequest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0D146204-B6C5-4BB8-8269-1AB66FA83874/4/ServiceProviderServiceExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/20/StackGuard.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Domain/Entities/Post.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3D5/Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/B/CallSiteChain.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/PostsApi.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/C/CallSiteFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/PostsApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/Endpoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/JsonPlaceholderApi/JsonPlaceholderClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Infrastructure/DependencyInjection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/8/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Application/Posts/Queries/GetAllPosts/GetAllPostsDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/3A2/EventSource.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Application/Posts/IPostsApi.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/35F2B0A3-A4F8-4A4E-9D09-FD1DFE98A65C/5/DependencyInjectionEventSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Posts/IPostsApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/IMapFrom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application/Common/Mappings/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -159,6 +114,7 @@
         <option value="$PROJECT_DIR$/Application/Posts/Commands/CreatePost/CreatePostDto.cs" />
         <option value="$PROJECT_DIR$/Presentation/Startup.cs" />
         <option value="$PROJECT_DIR$/Presentation/Controllers/BaseController.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -235,7 +191,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -1,0 +1,1 @@
+# Example project for [blog](https://www.rubicon-world.com/blog/2020/06/a-developers-guide-to-cqrs-using-net-core-and-mediatr/) "A Developer's Guide to CQRS Using .NET Core and MediatR"

@@ -4,6 +4,7 @@
     <e p="C:\Users\Faris\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Faris\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CQRSForum.-634736154.00" t="ExcludeRecursive" />
     <e p="C:\Users\Faris\RiderProjects\CQRSForum" t="IncludeFlat">
+      <e p=".gitignore" t="Include" />
       <e p="Application" t="IncludeRecursive">
         <e p="Application.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
@@ -41,6 +42,7 @@
         </e>
       </e>
       <e p="CQRSForum.sln" t="IncludeFlat" />
+      <e p="Documents" t="Include" />
       <e p="Domain" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Domain.csproj" t="IncludeRecursive" />
@@ -98,6 +100,7 @@
         </e>
         <e p="Startup.cs" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
     </e>
   </component>
 </project>
